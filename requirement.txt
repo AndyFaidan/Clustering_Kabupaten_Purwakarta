@@ -1,5 +1,4 @@
 streamlit
-streamlit_option_menu==0.3.2
 scikit-learn
 pandas
 numpy
@@ -7,3 +6,4 @@ matplotlib
 folium
 streamlit_folium
 seaborn
+streamlit_option_menu==0.3.2
