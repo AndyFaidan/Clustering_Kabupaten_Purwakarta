@@ -4,6 +4,6 @@ numpy==1.21.2
 folium==0.12.1
 streamlit_folium
 streamlit_option_menu
-seaborn==0.13.0
+seaborn
 scikit-learn
 matplotlib
