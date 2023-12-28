@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.29.0
+pandas==1.3.3
+numpy==1.21.2
 scikit-learn
-pandas
-numpy
 matplotlib
-folium
+folium==0.12.1
 streamlit_folium
+streamlit_option_menu
 seaborn
-streamlit_option_menu==0.3.2
