@@ -1,15 +1,16 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
+from streamlit_option_menu import option_menu
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
-import matplotlib.pyplot as plt
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
+import streamlit as st
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 import folium
 import seaborn as sns
-from streamlit_option_menu import option_menu
+
 
 
 def local_css(file_name):
